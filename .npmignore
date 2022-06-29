@@ -1,0 +1,7 @@
+/node_modules
+/bin
+/src
+/test
+/.github
+jest.config.js
+tsconfig.json
